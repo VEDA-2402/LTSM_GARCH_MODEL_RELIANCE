@@ -52,20 +52,16 @@ Financial markets exhibit complex temporal patterns and volatility clustering th
 
 ### Price Prediction Results
 
-![Stock Price Prediction](outputs/LTSM_Model_Prediction.jpg)
+![LTSM_Model_Prediction](LTSM_Model_Prediction.png)
 *Figure 1: LSTM model predictions vs actual prices on test set*
 
-![Prediction Analysis](outputs/stock_prediction_analysis.png)
+![visuals_LTSM](visuals_LTSM.png)
 *Figure 2: Comprehensive 4-panel analysis - Actual vs Predicted, Scatter Plot, Residuals, Error Distribution*
 
 ### Volatility Analysis
 
-![GARCH Volatility](outputs/GARCH_Volatility_Graph.jpg)
+![GARCH_Volatility_Graph](GARCH_Volatility_Graph.png)
 *Figure 3: GARCH-estimated conditional volatility showing clustering during crisis periods*
-
-![Error Analysis](outputs/error_over_time.png)
-*Figure 4: Temporal distribution of prediction errors*
-
 
 ---
 
